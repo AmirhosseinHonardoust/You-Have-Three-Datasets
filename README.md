@@ -8,7 +8,7 @@
 ![Focus](https://img.shields.io/badge/Focus-Observed%20vs%20Missing%20vs%20Excluded-orange)
 ![Outcome](https://img.shields.io/badge/Outcome-More%20Trustworthy%20Insights-success)
 ![Style](https://img.shields.io/badge/Article-Longform-blue)
- 
+  
 </div>
 
 Most analysts talk about “the dataset” like it’s a single object; stable, complete, and representative.
