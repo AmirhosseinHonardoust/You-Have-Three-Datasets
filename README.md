@@ -10,7 +10,7 @@
 ![Style](https://img.shields.io/badge/Article-Longform-blue)
 
 </div>
-
+ 
 Most analysts talk about “the dataset” like it’s a single object; stable, complete, and representative.
 
 It isn’t.
